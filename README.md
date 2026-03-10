@@ -18,7 +18,7 @@ Interested in building **reliable software for quality-critical environments**.
 
 ## Projects
 
-**DeviceSimulation**  
+**Device Simulation**  
 C#/.NET medical device simulator implementing command-based serial communication.
 
 **C# Coding Katas**  
