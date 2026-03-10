@@ -19,7 +19,7 @@ Interested in building **reliable software for quality-critical environments**.
 ## Projects
 
 **Device Simulation**  
-C#/.NET medical device simulator implementing command-based serial communication.
+C#/.NET simulation project exploring command-based device communication and state handling.
 
 **C# Coding Katas**  
 Collection of programming exercises with xUnit tests focusing on problem solving, clean code and TDD.
