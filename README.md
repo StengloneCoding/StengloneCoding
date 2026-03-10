@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bastian 👋
 
-<!--
-**StengloneCoding/StengloneCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a focus on backend systems and distributed architectures.
 
-Here are some ideas to get you started:
+Currently working mainly with **Java and microservices**, while also exploring **C# / .NET** in personal projects.  
+Interested in building **reliable software for quality-critical environments**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+- Java
+- Spring Boot
+- Microservices
+- REST APIs
+- C#
+- .NET / ASP.NET Core
+- Testing (xUnit / JUnit)
+- CI/CD
+
+## Projects
+
+**DeviceSimulation**  
+C#/.NET medical device simulator communicating over a serial interface.
+
+**C# Coding Katas**  
+Collection of algorithm exercises with xUnit tests to practice problem solving, clean code and TDD.
+
+## Interests
+
+- distributed systems
+- backend architecture
+- testing and TDD
+- quality-critical software
