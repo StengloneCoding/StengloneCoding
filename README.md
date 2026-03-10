@@ -1,6 +1,6 @@
 # Hi, I'm Bastian 👋
 
-Software Developer with a focus on backend systems and distributed architectures.
+Software Developer with experience building backend systems, microservices and modern web applications.
 
 Currently working mainly with **Java and microservices**, while also exploring **C# / .NET** in personal projects.  
 Interested in building **reliable software for quality-critical environments**.
