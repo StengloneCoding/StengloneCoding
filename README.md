@@ -7,26 +7,25 @@ Interested in building **reliable software for quality-critical environments**.
 
 ## Tech
 
-- Java
-- Spring Boot
-- Microservices
-- REST APIs
-- C#
-- .NET / ASP.NET Core
+- Java / Spring Boot
+- Microservices & REST APIs
+- C# / .NET / ASP.NET Core
+- React
 - Testing (xUnit / JUnit)
 - CI/CD
 
 ## Projects
 
 **DeviceSimulation**  
-C#/.NET medical device simulator communicating over a serial interface.
+C#/.NET medical device simulator implementing command-based serial communication.
 
 **C# Coding Katas**  
-Collection of algorithm exercises with xUnit tests to practice problem solving, clean code and TDD.
+Collection of programming exercises with xUnit tests focusing on problem solving, clean code and TDD.
 
 ## Interests
 
 - distributed systems
 - backend architecture
 - testing and TDD
+- modern frontend architectures
 - quality-critical software
