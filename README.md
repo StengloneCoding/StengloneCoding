@@ -2,6 +2,8 @@
 
 Software Developer with experience building backend systems, microservices and modern web applications.
 
+LinkedIn: https://www.linkedin.com/in/bastian-stenglein
+
 Currently working mainly with **Java and microservices**, while also exploring **C# / .NET** in personal projects.  
 Interested in building **reliable software for quality-critical environments**.
 
