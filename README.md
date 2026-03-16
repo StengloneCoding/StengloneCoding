@@ -19,7 +19,7 @@ Interested in building **reliable software for quality-critical environments**.
 ## Projects
 
 **TrackIt**  
-Parcel tracking system with a .NET backend and React Native mobile application.  
+Planned Parcel tracking system with a .NET backend and React Native mobile application.  
 Allows users to track shipments across multiple carriers and store shipment documents (e.g. scanned labels).  
 Currently in early development, focusing on domain modeling and backend architecture.
 
