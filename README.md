@@ -36,9 +36,11 @@ Focus areas:
 **AI Visibility Readiness Audit**  
 A small audit tool that analyzes whether a website is technically and semantically prepared for AI-driven visibility.  
 It does not measure real rankings. Instead, it checks readiness signals such as SEO basics, content clarity, entity signals, structured data and technical accessibility.
+https://www.mars.stenglone.de
 
-**Client and Demo Websites**  
+**Client Websites**  
 Building fast, modern websites for local businesses using modern frontend technologies, clean content structure and measurable conversion paths.
+https://ihre-neue-seite.stenglone.de/
 
 ## Selected Technical Projects
 
