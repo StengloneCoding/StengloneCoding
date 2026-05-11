@@ -1,38 +1,60 @@
 # Hi, I'm Bastian 👋
 
-Software Developer with experience building backend systems, microservices and modern web applications.
+Software Developer and founder of **STENGLONE**, a technical online marketing studio focused on websites, SEO, Google Ads and AI visibility for regional businesses.
 
-LinkedIn: https://www.linkedin.com/in/bastian-stenglein
+LinkedIn: https://www.linkedin.com/in/bastian-stenglein  
+Website: https://www.stenglone.de
 
-Currently working mainly with **Java and microservices**, while also exploring **C# / .NET** in personal projects.  
-Interested in building **reliable software for quality-critical environments**.
+I combine software development with practical online marketing. My focus is building fast, structured and conversion-oriented websites that help businesses become more visible in Google and AI-driven search systems.
+
+Currently working mainly with **Java, microservices and CI/CD** in my main role, while using **Next.js, TypeScript and modern web technologies** for STENGLONE projects.
 
 ## Tech
 
 - Java / Spring Boot
 - Microservices & REST APIs
+- TypeScript / React / Next.js
 - C# / .NET / ASP.NET Core
-- React
-- Testing (xUnit / JUnit)
-- CI/CD
+- Testing with JUnit, xUnit and React Testing Library
+- CI/CD, GitHub Actions, GitLab CI
+- Technical SEO, structured data and performance optimization
+- Google Tag Manager, GA4 and conversion tracking
 
-## Projects
+## Current Focus
 
-**TrackIt**  
-Planned Parcel tracking system with a .NET backend and React Native mobile application.  
-Allows users to track shipments across multiple carriers and store shipment documents (e.g. scanned labels).  
-Currently in early development, focusing on domain modeling and backend architecture.
+**STENGLONE**  
+Online marketing and web development for regional businesses.  
+Focus areas:
+
+- conversion-oriented websites
+- technical SEO
+- local SEO
+- Google Ads landing pages
+- AI visibility and structured content
+- tracking, analytics and lead generation workflows
+
+**AI Visibility Readiness Audit**  
+A small audit tool that analyzes whether a website is technically and semantically prepared for AI-driven visibility.  
+It does not measure real rankings. Instead, it checks readiness signals such as SEO basics, content clarity, entity signals, structured data and technical accessibility.
+
+**Client and Demo Websites**  
+Building fast, modern websites for local businesses using modern frontend technologies, clean content structure and measurable conversion paths.
+
+## Selected Technical Projects
 
 **Device Simulation**  
 C#/.NET medical device simulation project exploring command-based device communication.
 
 **C# Coding Katas**  
-Collection of programming exercises with xUnit tests focusing on problem solving, clean code and TDD.
+Collection of programming exercises with xUnit tests focused on problem solving, clean code and TDD.
 
 ## Interests
 
-- distributed systems
+- technical SEO
+- AI visibility
 - backend architecture
+- distributed systems
 - testing and TDD
 - modern frontend architectures
+- conversion-focused web development
 - quality-critical software
