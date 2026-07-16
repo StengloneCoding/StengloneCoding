@@ -1,66 +1,84 @@
 # Hi, I'm Bastian 👋
 
-Software Developer and founder of **STENGLONE**, a web development studio focused on websites, e-commerce, SEO and AI visibility for regional businesses.
+Software Developer focused on backend development, distributed systems, software quality and modern web technologies.
 
-LinkedIn: https://www.linkedin.com/in/bastian-stenglein  
-Website: https://www.stenglone.de
+LinkedIn: https://www.linkedin.com/in/bastian-stenglein
 
-I combine software development with practical digital growth. My focus is building fast, structured and conversion-oriented websites and online shops that help businesses become more visible, generate leads and sell more effectively online.
+I currently work mainly with **Java, Spring Boot, microservices and CI/CD**. In addition, I develop projects with **C#, .NET, TypeScript, React and Next.js**.
 
-Currently working mainly with **Java, microservices and CI/CD** in my main role, while using **Next.js, TypeScript and modern web technologies** for STENGLONE projects.
+## Tech Stack
 
-## Tech
+### Backend
 
-- Java / Spring Boot
-- Microservices & REST APIs
-- TypeScript / React / Next.js
-- C# / .NET / ASP.NET Core
-- Testing with JUnit, xUnit and React Testing Library
-- CI/CD, GitHub Actions, GitLab CI
-- Technical SEO, structured data and performance optimization
-- E-commerce, checkout flows and conversion optimization
-- Google Tag Manager, GA4 and conversion tracking
+- Java
+- Spring Boot
+- Apache Camel
+- C#
+- .NET
+- ASP.NET Core
+- Microservices
+- REST APIs
+- Event-driven architectures
 
-## Current Focus
+### Frontend
 
-**STENGLONE**  
-Websites, e-commerce and technical SEO for regional businesses.  
-Focus areas:
+- TypeScript
+- React
+- Next.js
 
-- conversion-oriented websites
-- modern online shops
-- technical SEO
-- local SEO
-- landing pages
-- AI visibility and structured content
-- tracking, analytics and lead generation workflows
+### Testing & Quality
 
-**AI Visibility Readiness Audit**  
-A small audit tool that analyzes whether a website is technically and semantically prepared for AI-driven visibility.  
-It does not measure real rankings. Instead, it checks readiness signals such as SEO basics, content clarity, entity signals, structured data and technical accessibility.  
-https://www.mars.stenglone.de
+- JUnit
+- Mockito
+- Citrus Framework
+- xUnit
+- React Testing Library
+- Test-Driven Development
+- Unit Testing
+- Component Testing
+- Refactoring
+- Clean Code
+- SOLID principles
 
-**Client Websites & Online Shops**  
-Building fast, modern websites and e-commerce experiences for local businesses using modern frontend technologies, clean content structure and measurable conversion paths.  
-https://ihre-neue-seite.stenglone.de/
+### DevOps & Tools
 
-## Selected Technical Projects
+- Git
+- GitHub Actions
+- GitLab CI/CD
+- Docker
+- Kubernetes
+- Elasticsearch
+- Kibana
 
-**Device Simulation**  
-C#/.NET medical device simulation project exploring command-based device communication.
+## Selected Projects
 
-**C# Coding Katas**  
-Collection of programming exercises with xUnit tests focused on problem solving, clean code and TDD.
+### Device Simulation
+
+A C#/.NET project for simulating medical devices and exploring command-based device communication.
+
+### C# Coding Katas
+
+A collection of programming exercises implemented in C# with xUnit tests, focusing on problem solving, clean code and test-driven development.
+
+## Current Learning Focus
+
+- C# and modern .NET
+- Backend architecture
+- Distributed systems
+- Event-driven software
+- Test-Driven Development
+- Software design principles
+- Cloud and container technologies
+- AI-assisted software development
 
 ## Interests
 
-- web development
-- e-commerce
-- technical SEO
-- AI visibility
-- backend architecture
-- distributed systems
-- testing and TDD
-- modern frontend architectures
-- conversion-focused websites
-- quality-critical software
+- Backend development
+- Software architecture
+- Distributed systems
+- Microservices
+- Testing and TDD
+- Clean Code
+- Developer tooling
+- AI-assisted software development
+- Quality-critical software
